@@ -17,7 +17,6 @@ html {
   font-size: 62.5%; }
 
 body {
-  background: url(../img/background.png) no-repeat;
   font: 300 13px/1.6 'Helvetica Neue', Helvetica, Arial;
   color: #444;
   transition: all .4s .3s ease-in; }
@@ -497,6 +496,11 @@ th {
       color: #fff; }
   .usuall_navigation .usuall_nav li:hover .drop_down li:hover .drop_down_second_level li:nth-child(6) {
     padding-bottom: 5px; }
+
+.back_div {
+  background: url(../img/background.png) no-repeat;
+  width: 1310px;
+  margin: 0 auto; }
 
 .theMain {
   width: 979px;
